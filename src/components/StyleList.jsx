@@ -1,5 +1,5 @@
 import { Styles } from "./Styles";
-import "./StyleList.css";
+import "./Styles/StyleList.css";
 export function StyleList() {
   return (
     <section className="stylelist">

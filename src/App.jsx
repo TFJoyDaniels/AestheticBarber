@@ -1,6 +1,6 @@
 import "./App.css";
 import { Header } from "./components/Header";
-import { StyleList } from "./components/Stylelist";
+import { StyleList } from "./components/StyleList";
 
 function App() {
   return (
