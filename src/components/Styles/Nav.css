@@ -1,0 +1,20 @@
+nav {
+  padding: 1rem;
+  display: flex;
+  justify-content: space-between;
+  /* position: fixed; */
+  width: 98%;
+  z-index: 1;
+  backdrop-filter: blur(4px);
+}
+.logo {
+  background-color: #ccc;
+  width: 200px;
+  height: 50px;
+}
+
+.menu-icon {
+  width: 50px;
+  height: 50px;
+  background-color: #ccc;
+}
