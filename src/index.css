@@ -20,9 +20,6 @@ body {
     margin-bottom: 150px;
     text-align: center;
   }
-  .header-container p {
-    margin-top: 200px;
-  }
   .stylelist {
     grid-template-columns: repeat(1, 1fr);
     justify-items: center;
