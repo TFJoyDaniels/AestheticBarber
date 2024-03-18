@@ -27,6 +27,7 @@
 }
 .styles img {
   position: absolute;
+  object-fit: cover;
   width: 200px;
   max-height: 250px;
   border-radius: 1rem;
